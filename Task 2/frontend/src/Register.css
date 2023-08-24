@@ -1,0 +1,18 @@
+.container {
+    padding: 5em 10rem;
+}
+.form {
+background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    min-height: 50vw;
+    width: 100;
+  
+}
+
+.form >div {
+    margin-bottom: 2rem;
+}
